@@ -1,0 +1,27 @@
+.appBrackground {
+  background-color: rgb(88, 57, 136);
+  height: 94.2vh;
+}
+.appTopBar {
+  height: 5.8vh;
+  background-color: rgb(14, 75, 75);
+  /* margin: 0px !important;
+  padding: 0px !important;
+  width: 100% !important; */
+}
+.appSideBar {
+  background-color: rgb(63, 172, 172);
+  height: 94.2vh;
+  /* margin: 0px !important;
+  padding: 0px !important;
+  width: 100% !important; */
+}
+.appContainer {
+  display: flex;
+}
+.appSideBarContainer {
+  width: 20%;
+}
+.appContentContainer {
+  width: 80%;
+}
